@@ -5,3 +5,5 @@
  where you have downloaded the data.
 
  This code can be improved by adding a class and various methods within the class for loading data info , image pre-processing and augmentation etc.
+
+ dataset - https://www.kaggle.com/c/plant-seedlings-classification/data
